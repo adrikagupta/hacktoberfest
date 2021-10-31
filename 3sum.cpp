@@ -17,7 +17,7 @@ Example 3:
 Input: nums = [0]
 Output: []
 */
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 class Solution
 {
